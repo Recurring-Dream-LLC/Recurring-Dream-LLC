@@ -6,13 +6,11 @@ This policy applies to all information collected or submitted by the Tipsy appli
 
 Tipsy does not collect or retain any personal identifying information as part of its core functions. 
 
+Tipsy logs usage information locally on the device. 
+
 Tipsy uses Apple's in-app purchase mechanism, and records the receipt of a sucessful purchase locally on the device.
 
 Apple may collect crash logs if the privacy settings of your device allow it.
-
-Tipsy uses a third party advertising service, AdMob by Google, that may collect information used to identify you.
-[AdMob Privacy Policy](https://support.google.com/admob/answer/6128543?hl=en)
-
 
 **Children’s Privacy**
 
@@ -30,4 +28,4 @@ If you have questions regarding this privacy policy, you may email support@recur
 
 If this privacy policy changes, updates will be available on this page. 
 
-This policy is effective as of 2020-04-25
+This policy is effective as of September 6, 2020
